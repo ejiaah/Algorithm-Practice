@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/magic-square-forming/problem
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
